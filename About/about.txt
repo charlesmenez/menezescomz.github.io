@@ -8,7 +8,10 @@
 Hello friend! <!-- --><p> Here you will find some of my work and thoughts. </p>
 <p>I'm a linux enthusiast, freesoftware supporter and favorable for less bloated apps and websites. </p> <!--  -->
 <p>Since 2013 using Linux and Free Software, being minimalist on my software choices and teaching people about the importance of taking our control back against big corporations. <!--  -->
-<p>Check my profiles: <br><a href="https://github.com/charlesmenez">Github</a></p>
+<p>Check my profiles: </p><br>
+<a href="https://github.com/charlesmenez">Github</a>
+<a href="https://instagram.com/_menezescomz">Instagram</a>
+<a href="https://t.me/menezescomz">Telegram</a>
 
 <!-- -->Feel free to get in touch at<!--  --><a href="" email ID"> theunixguy777@proton.me</a>.
 
