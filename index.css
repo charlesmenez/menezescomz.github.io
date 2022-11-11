@@ -34,7 +34,9 @@ a {
 }
 
 #k {
-    	animation: change 0s;
+	animation: change 0s;
+  color: #ff00ff;
+
 }
 
 #op{
