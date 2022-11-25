@@ -1,3 +1,11 @@
+<pre><span style="color: #cc99ff;"> ________  ________  ________  ___  ___  _________   
+|\   __  \|\   __  \|\   __  \|\  \|\  \|\___   ___\ 
+\ \  \|\  \ \  \|\ /\ \  \|\  \ \  \\\  \|___ \  \_| 
+ \ \   __  \ \   __  \ \  \\\  \ \  \\\  \   \ \  \  
+  \ \  \ \  \ \  \|\  \ \  \\\  \ \  \\\  \   \ \  \ 
+   \ \__\ \__\ \_______\ \_______\ \_______\   \ \__\
+    \|__|\|__|\|_______|\|_______|\|_______|    \|__|</span></pre>
+
 <span id="a">charles@linux</span>:<span id="b">~</span><span id="c">$</span> cd ~/About/ <!--  -->
 <span id="a">charles@linux</span>:<span id="b">~</span><span id="c">$</span> grep '.*' menu
 <p><a href="../index.html">Home </a><a href="about.html">About </a></p>

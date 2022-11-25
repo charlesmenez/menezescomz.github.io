@@ -1,37 +1,16 @@
-<span id="a">charles@linux</span>:<span id="b">~</span><span id="c">$</span> cd ~/ <!--  -->
-<span id="a">charles@linux</span>:<span id="b">~</span><span id="c">$</span> grep '.*' menu
-<p><a href="index.html">Home </a><a href="About/about.html">About </a></p>
-<span id="k"><pre>      sdSS_SSSSSSbs    sSSs   .S_sSSs     .S_SsS_S.    .S   .S_sSSs     .S_SSSs    S.                    
-      YSSS~S%SSSSSP   d%%SP  .SS~YS%%b   .SS~S*S~SS.  .SS  .SS~YS%%b   .SS~SSSSS   SS.                   
-           S%S       d%S'    S%S   `S%b  S%S `Y' S%S  S%S  S%S   `S%b  S%S   SSSS  S%S                   
-           S%S       S%S     S%S    S%S  S%S     S%S  S%S  S%S    S%S  S%S    S%S  S%S                   
-           S&amp;S       S&amp;S     S%S    d*S  S%S     S%S  S&amp;S  S%S    S&amp;S  S%S SSSS%S  S&amp;S                   
-           S&amp;S       S&amp;S_Ss  S&amp;S   .S*S  S&amp;S     S&amp;S  S&amp;S  S&amp;S    S&amp;S  S&amp;S  SSS%S  S&amp;S                   
-           S&amp;S       S&amp;S~SP  S&amp;S_sdSSS   S&amp;S     S&amp;S  S&amp;S  S&amp;S    S&amp;S  S&amp;S    S&amp;S  S&amp;S                   
-           S&amp;S       S&amp;S     S&amp;S~YSY%b   S&amp;S     S&amp;S  S&amp;S  S&amp;S    S&amp;S  S&amp;S    S&amp;S  S&amp;S                   
-           S*S       S*b     S*S   `S%b  S*S     S*S  S*S  S*S    S*S  S*S    S&amp;S  S*b                   
-           S*S       S*S.    S*S    S%S  S*S     S*S  S*S  S*S    S*S  S*S    S*S  S*S.                  
-           S*S        SSSbs  S*S    S&amp;S  S*S     S*S  S*S  S*S    S*S  S*S    S*S   SSSbs                
-           S*S         YSSP  S*S    SSS  SSS     S*S  S*S  S*S    SSS  SSS    S*S    YSSP                
-           SP                SP                  SP   SP   SP                 SP                         
-           Y                 Y                   Y    Y    Y                  Y                          
-                                                                                                         
- .S_sSSs      sSSs_sSSs     .S_sSSs    sdSS_SSSSSSbs    sSSs    sSSs_sSSs    S.       .S    sSSs_sSSs    
-.SS~YS%%b    d%%SP~YS%%b   .SS~YS%%b   YSSS~S%SSSSSP   d%%SP   d%%SP~YS%%b   SS.     .SS   d%%SP~YS%%b   
-S%S   `S%b  d%S'     `S%b  S%S   `S%b       S%S       d%S'    d%S'     `S%b  S%S     S%S  d%S'     `S%b  
-S%S    S%S  S%S       S%S  S%S    S%S       S%S       S%S     S%S       S%S  S%S     S%S  S%S       S%S  
-S%S    d*S  S&amp;S       S&amp;S  S%S    d*S       S&amp;S       S&amp;S     S&amp;S       S&amp;S  S&amp;S     S&amp;S  S&amp;S       S&amp;S  
-S&amp;S   .S*S  S&amp;S       S&amp;S  S&amp;S   .S*S       S&amp;S       S&amp;S_Ss  S&amp;S       S&amp;S  S&amp;S     S&amp;S  S&amp;S       S&amp;S  
-S&amp;S_sdSSS   S&amp;S       S&amp;S  S&amp;S_sdSSS        S&amp;S       S&amp;S~SP  S&amp;S       S&amp;S  S&amp;S     S&amp;S  S&amp;S       S&amp;S  
-S&amp;S~YSSY    S&amp;S       S&amp;S  S&amp;S~YSY%b        S&amp;S       S&amp;S     S&amp;S       S&amp;S  S&amp;S     S&amp;S  S&amp;S       S&amp;S  
-S*S         S*b       d*S  S*S   `S%b       S*S       S*b     S*b       d*S  S*b     S*S  S*b       d*S  
-S*S         S*S.     .S*S  S*S    S%S       S*S       S*S     S*S.     .S*S  S*S.    S*S  S*S.     .S*S  
-S*S          SSSbs_sdSSS   S*S    S&amp;S       S*S       S*S      SSSbs_sdSSS    SSSbs  S*S   SSSbs_sdSSS   
-S*S           YSSP~YSSY    S*S    SSS       S*S       S*S       YSSP~YSSY      YSSP  S*S    YSSP~YSSY    
-SP                         SP               SP        SP                             SP                  
-Y                          Y                Y         Y                              Y                   </pre></span>
+<pre><span style="color: #cc99ff;"> ___       __   _______   ___       ________  ________  _____ ______   _______      
+|\  \     |\  \|\  ___ \ |\  \     |\   ____\|\   __  \|\   _ \  _   \|\  ___ \     
+\ \  \    \ \  \ \   __/|\ \  \    \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|    
+ \ \  \  __\ \  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \ \  \\|__| \  \ \  \_|/__  
+  \ \  \|\__\_\  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \ \  \    \ \  \ \  \_|\ \ 
+   \ \____________\ \_______\ \_______\ \_______\ \_______\ \__\    \ \__\ \_______\
+    \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
+                                                                                    </span></pre>
 
-<span id="a">charles@linux</span>:<span id="b">~</span><span id="c">$</span> grep '.*' skills
+<span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> grep '.*' menu
+<p><a href="index.html">Home </a><a href="About/about.html">About </a></p>
+<span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> cd ~/ <!--  -->
+<span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> grep '.*' skills
 <p><span style="color: #00ccff;">collectskills</span>("<span style="color: #ffff00;">set</span>", <span style="color: #cc99ff;">110</span>)</p>
 <p><span style="color: #00ccff;">skills</span>.<span style="color: #00ccff;">boolean</span>({</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">html</span> = <span style="color: #00ff00;">true</span>,</p>
@@ -39,9 +18,9 @@ Y                          Y                Y         Y                         
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">javascript</span> = <span style="color: #00ff00;">true</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">git</span> = <span style="color: #00ff00;">true</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">shellscript</span> = <span style="color: #00ff00;">true</span>,</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">go</span> = <span style="color: #ff0000;">processing</span>,</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">go</span> = <span style="color: #ff0000;">WIP</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">nojeJS</span> = <span style="color: #00ff00;">true</span>,</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">rust</span> = <span style="color: #ff0000;">processing</span>,</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">rust</span> = <span style="color: #ff0000;">WIP</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">c#</span> = <span style="color: #ff0000;">false</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">callback</span> = <span style="color: #99cc00;">Operating_System</span>(</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #cc99ff;">Linux</span> = <span style="color: #00ff00;">true</span>,</p>
@@ -52,4 +31,4 @@ Y                          Y                Y         Y                         
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #33cccc;">&nbsp; collect.skills</span>("<span style="color: #ffff00;">collect</span>")</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #00ccff;">end</span>,</p>
 <p>})</p>
-<span id="a">charles@linux</span>:<span id="b">~</span><span id="c">$</span> To know more about me click <a href="About/about.html">here</a>
+<span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> To know more about me click <a href="About/about.html">here</a>

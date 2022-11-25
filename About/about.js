@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 2;
+Typer.speed = 5;
 Typer.file = 'about.txt';
 Typer.init();
 
