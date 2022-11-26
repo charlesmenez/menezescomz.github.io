@@ -7,12 +7,10 @@
     \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
                                                                                     </span></pre>
 
-<span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> grep '.*' menu
-<p><a href="index.html">Home </a><a href="About/about.html">About </a></p>
 <span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> cd ~/ <!--  -->
 <span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> grep '.*' skills
 <p><span style="color: #00ccff;">collectskills</span>("<span style="color: #ffff00;">set</span>", <span style="color: #cc99ff;">110</span>)</p>
-<p><span style="color: #00ccff;">skills</span>.<span style="color: #00ccff;">boolean</span>({</p>
+<p><span style="color: #00ccff;">skills</span>.<span style="color: #00ccff;">show</span>({</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">html</span> = <span style="color: #00ff00;">true</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">css</span> = <span style="color: #00ff00;">true</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">javascript</span> = <span style="color: #00ff00;">true</span>,</p>
@@ -21,7 +19,6 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">go</span> = <span style="color: #ff0000;">WIP</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">nojeJS</span> = <span style="color: #00ff00;">true</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">rust</span> = <span style="color: #ff0000;">WIP</span>,</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">c#</span> = <span style="color: #ff0000;">false</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ffff00;">callback</span> = <span style="color: #99cc00;">Operating_System</span>(</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #cc99ff;">Linux</span> = <span style="color: #00ff00;">true</span>,</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #cc99ff;">OpenBSD</span> = <span style="color: #00ff00;">true</span>,</p>
@@ -32,3 +29,4 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #00ccff;">end</span>,</p>
 <p>})</p>
 <span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> To know more about me click <a href="About/about.html">here</a>
+
