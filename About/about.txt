@@ -20,6 +20,7 @@ Shellscript Projects:
 <a href="https://github.com/charlesmenez/Dmenu-Streaming">Dmenu-Streaming</a>
 <a href="https://github.com/charlesmenez/shellscript/blob/main/torrent-tui">Torrent-tui</a>
 <a href="https://github.com/charlesmenez/shellscript/blob/main/yt-automatic-downloader">Youtube-automatic-downloader</a>
+<a href="https://github.com/charlesmenez/shellscript/blob/main/youtube-dmenu">Youtube-dmenu</a>
 
 My AwesomeWm Dotfiles
 
@@ -30,7 +31,6 @@ Check my profiles:
 <a href="https://github.com/charlesmenez">Github</a>
 <a href="https://t.me/menezescomz">Telegram</a>
 <a href="https://social.linux.pizza/@charlesmenez">Mastodon</a>
-<a href="https://github.com/charlesmenez/shellscript/blob/main/youtube-dmenu">Youtube-dmenu</a>
 
 <!-- -->Feel free to get in touch at<!--  --><a href="" email ID"> theunixguy777@proton.me</a>.
 
