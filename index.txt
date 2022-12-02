@@ -28,5 +28,5 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #33cccc;">&nbsp; collect.skills</span>("<span style="color: #ffff00;">collect</span>")</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #00ccff;">end</span>,</p>
 <p>})</p>
-<span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> To know more about me and see my projects click <a href="About/about.html">here</a>
+<span id="a">charles@localhost</span>:<span id="b">~</span><span id="c">$</span> To know more about me and see my projects click <a href="about/about.html">here</a>
 
