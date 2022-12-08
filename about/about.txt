@@ -22,10 +22,15 @@ Shellscript Projects:
 <a href="https://github.com/charlesmenez/shellscript/blob/main/torrent-tui">Torrent-tui</a>
 <a href="https://github.com/charlesmenez/shellscript/blob/main/yt-automatic-downloader">Youtube-automatic-downloader</a>
 <a href="https://github.com/charlesmenez/shellscript/blob/main/youtube-dmenu">Youtube-dmenu</a>
+<a href="https://github.com/charlesmenez/shellscript/blob/main/dmenu-emoji">dmenu-emoji</a>
 
 My AwesomeWm Dotfiles
 
 <a href="https://github.com/charlesmenez/awesome">Awesome</a>
+
+My Dmenu Build
+
+<a href="https://github.com/charlesmenez/dmenu">Dmenu Build</a>
 
 Check my profiles: 
 
